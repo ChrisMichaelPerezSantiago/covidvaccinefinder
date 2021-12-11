@@ -1,0 +1,36 @@
+{
+  "name": "covidvaccinefinder",
+  "version": "1.0.0",
+  "description": "Find a COVID-19 vaccine near you, data provided by VaccineFinder",
+  "main": "./src/scraper.js",
+  "scripts": {
+    "start": "node ./src/scraper.js",
+    "dev": "nodemon ./src/scraper.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Chris Michael",
+    "email": "chrisperezsantiago1@gmail.com",
+    "social": {
+      "github": "https://github.com/ChrisMichaelPerezSantiago",
+      "twitter": "https://twitter.com/Chris5855M"
+    }
+  },
+  "contributors": [
+    {
+      "name": "Chris Michael",
+      "url": "https://github.com/ChrisMichaelPerezSantiago",
+      "reason": "Project Leader, and Developer"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChrisMichaelPerezSantiago/covidvaccinefinder"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "flexf": "^1.0.2",
+    "nodemon": "^2.0.15"
+  }
+}
