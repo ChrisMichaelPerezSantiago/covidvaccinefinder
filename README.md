@@ -2,6 +2,8 @@
 
 > Find a COVID-19 vaccine near you, data provided by [VaccineFinder](https://www.vaccines.gov/)
 
+<a href="https://nodei.co/npm/covidvaccinefinder/"><img src="https://nodei.co/npm/covidvaccinefinder.png"></a>
+
 ---
 
 ## US states available to search by zipcode
