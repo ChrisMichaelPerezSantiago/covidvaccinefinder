@@ -7,7 +7,14 @@
     "start": "node ./src/scraper.js",
     "dev": "nodemon ./src/scraper.js"
   },
-  "keywords": [],
+  "keywords": [
+    "covid19",
+    "covid",
+    "covid finder",
+    "covid19 finder",
+    "covid vaccine",
+    "covid19 vaccine"
+  ],
   "author": {
     "name": "Chris Michael",
     "email": "chrisperezsantiago1@gmail.com",
